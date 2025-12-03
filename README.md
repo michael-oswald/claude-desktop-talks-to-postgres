@@ -40,6 +40,9 @@ Paste the following json into your `claude_desktop_config.json`:
 
 **3. Restart Claude Desktop** Completely quit and restart Claud Desktop for changes to take effect.
 
+**4. Use Incognito mode in Claude Desktop** (Optional) 
+![img.png](img.png)
+
 ## Example Prompts to use to test it out
 
 - "What tables are in my database?"
