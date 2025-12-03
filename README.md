@@ -12,8 +12,8 @@ Query your PostgreSQL database using natural language with Claude Desktop (Incog
 
 **1. Start PostgreSQL:**
 ```bash
-git clone https://github.com/michael-oswald/ollama-talks-to-postgres-private-mode.git
-cd ollama-talks-to-postgres-private-mode
+git clone https://github.com/michael-oswald/how-to-connect-claude-desktop-to-postgres
+cd how-to-connect-claude-desktop-to-postgres
 ./start-postgres.sh
 ```
 
